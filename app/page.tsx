@@ -35,7 +35,7 @@ export default function Home() {
       <section className="relative h-screen flex items-center justify-center">
         <div className="absolute inset-0 z-0">
           <Image src="/modern-housing-complex.png" alt="Graha Asri Residence" fill className="object-cover" priority />
-          <div className="absolute inset-0 bg-opacity-40"></div>
+          <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/50 to-black/70"></div>
         </div>
 
         <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto">
