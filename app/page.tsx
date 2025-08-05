@@ -49,7 +49,7 @@ export default function Home() {
               asChild
               variant="outline"
               size="lg"
-              className="text-lg px-8 py-3 border-white text-white hover:bg-white hover:text-gray-900 bg-transparent"
+              className="text-lg px-8 py-3 bg-white text-black border-white hover:bg-gray-100 hover:text-black"
             >
               <Link href="/unit-types">Explore Units</Link>
             </Button>
